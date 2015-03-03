@@ -1,0 +1,6 @@
+C:\Users\santosh\Documents\Visual Studio 2013\Projects\DesignPattern\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\santosh\Documents\Visual Studio 2013\Projects\DesignPattern\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\santosh\Documents\Visual Studio 2013\Projects\DesignPattern\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\santosh\Documents\Visual Studio 2013\Projects\DesignPattern\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\santosh\Documents\Visual Studio 2013\Projects\DesignPattern\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\santosh\Documents\Visual Studio 2013\Projects\DesignPattern\Interpreter\obj\Debug\Interpreter.pdb
