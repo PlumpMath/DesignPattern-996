@@ -13,13 +13,13 @@ namespace Interpreter
             Parser parser = new Parser();
 
             string[] commands = new string[]
-{
-    "+ 5 6",
-    "- 6 5",
-    "+ - 4 5 6",
-    "+ 4 - 5 6",
-    "+ - + - - 2 3 4 + - -5 6 + -7 8 9 10"
-};
+                {
+                    "+ 5 6",
+                    "- 6 5",
+                    "+ - 4 5 6",
+                    "+ 4 - 5 6",
+                    "+ - + - - 2 3 4 + - -5 6 + -7 8 9 10"
+                };
 
             foreach (string command in commands)
             {
