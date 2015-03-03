@@ -1,0 +1,5 @@
+c:\users\santosh\documents\visual studio 2013\Projects\DesignPattern\Template\bin\Debug\Template.exe.config
+c:\users\santosh\documents\visual studio 2013\Projects\DesignPattern\Template\bin\Debug\Template.exe
+c:\users\santosh\documents\visual studio 2013\Projects\DesignPattern\Template\bin\Debug\Template.pdb
+c:\users\santosh\documents\visual studio 2013\Projects\DesignPattern\Template\obj\Debug\Template.exe
+c:\users\santosh\documents\visual studio 2013\Projects\DesignPattern\Template\obj\Debug\Template.pdb
