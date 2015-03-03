@@ -1,0 +1,5 @@
+c:\users\santosh\documents\visual studio 2013\Projects\DesignPattern\Strategy\bin\Debug\Strategy.exe.config
+c:\users\santosh\documents\visual studio 2013\Projects\DesignPattern\Strategy\bin\Debug\Strategy.exe
+c:\users\santosh\documents\visual studio 2013\Projects\DesignPattern\Strategy\bin\Debug\Strategy.pdb
+c:\users\santosh\documents\visual studio 2013\Projects\DesignPattern\Strategy\obj\Debug\Strategy.exe
+c:\users\santosh\documents\visual studio 2013\Projects\DesignPattern\Strategy\obj\Debug\Strategy.pdb
