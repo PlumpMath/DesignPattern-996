@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{52766C4C-F92A-4D65-B990-552F1DF0ED9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateII", "TemplateII\TemplateII.csproj", "{94DD7E58-47C8-4E94-848E-1154BDDAA410}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{52766C4C-F92A-4D65-B990-552F1DF0ED9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52766C4C-F92A-4D65-B990-552F1DF0ED9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52766C4C-F92A-4D65-B990-552F1DF0ED9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94DD7E58-47C8-4E94-848E-1154BDDAA410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DD7E58-47C8-4E94-848E-1154BDDAA410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DD7E58-47C8-4E94-848E-1154BDDAA410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DD7E58-47C8-4E94-848E-1154BDDAA410}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
