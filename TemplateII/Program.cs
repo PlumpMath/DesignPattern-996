@@ -18,9 +18,7 @@ namespace TemplateII
                 Name = "Super Operator",
                 Pager = "465565456"
             };
-            var message = new Message();
-
-            message.Sender = new SmsNotificationSender(systemOperator);
+            var message = new Message() { Sender = new SmsNotificationSender(systemOperator) };
             message.Send();
 
             message.Sender = new MailNotificationSender(systemOperator);
